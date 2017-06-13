@@ -1,0 +1,6 @@
+C:\Users\steve\Desktop\Githhub\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe.config
+C:\Users\steve\Desktop\Githhub\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe
+C:\Users\steve\Desktop\Githhub\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.pdb
+C:\Users\steve\Desktop\Githhub\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csprojResolveAssemblyReference.cache
+C:\Users\steve\Desktop\Githhub\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.exe
+C:\Users\steve\Desktop\Githhub\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.pdb
